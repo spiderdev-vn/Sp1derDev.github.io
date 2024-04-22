@@ -6,7 +6,7 @@
       src="/logo.jpg"
       class="w-64 rounded-[3rem] my-10 shadow-lg hover:shadow-xl hover:scale-105 duration-100"
     />
-    <h2 class="font-main font-light">Website spiderdev đang được mọi người tích cực hoàn thiện</h2>
+    <h2 class="font-main font-light">spiderdev đang được mọi người tích cực hoàn thiện</h2>
     <h2 class="font-main font-light">Mọi người quay lại sau nhé!</h2>
 
     <div class="bg-gradient-to-tl from-blue-900 to-blue-400 rounded-full mt-5">
